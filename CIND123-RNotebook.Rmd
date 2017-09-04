@@ -9,4 +9,4 @@ This course is an introduction to R, analyzing and exploring data with R, and us
 **Time:**		Wednesdays, 6:30 to 9:30 pm  
 **Location:**	VIC402 CE - Lab
 
-
+Just a few more modifications from my laptop.
